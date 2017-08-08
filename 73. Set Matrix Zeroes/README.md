@@ -1,2 +1,2 @@
-#Accept有感
-一次AC，High的一逼
+# Accept有感
+一次提交直接AC，High的一逼
